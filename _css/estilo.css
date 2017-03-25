@@ -15,7 +15,7 @@ nav#menu ul{
     text-transform: uppercase;
     position:absolute;
     top: -20px;
-    left: 480px;
+    left: 530px;
 }
 
 nav#menu li{
@@ -49,7 +49,7 @@ nav#menu a:hover{
 
 section#corpo{
     display: block;
-    width: 500px;
+    width: 560px;
     float: left;
     border-right: 1px solid #606060;
     padding-right: 15px;
@@ -128,7 +128,7 @@ table#tabelaspec caption span{
 
 aside#lateral{
     display: block;
-    width: 350px;
+    width: 395px;
     float: right;
     background-color: #dddddd;
     padding: 10px;
@@ -166,7 +166,7 @@ body{
 }
 
 div#interface{
-    width:900px;
+    width:1000px;
     background-color: white;
     margin:-20px auto 0 auto;
     box-shadow: 0 0 10px rgba(0,0,0,.5);
@@ -189,7 +189,7 @@ a:hover{
 
 header#cabecalho img#icone{
     position: absolute;
-    left: 970px;
+    left: 1020px;
     top: 70px;
 }
 
@@ -245,3 +245,15 @@ figure.foto-legenda:hover figcaption{
     opacity: 1;
 }
 
+video#video-aside{
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+video#video-noticia{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-bottom: 10px;
+}
